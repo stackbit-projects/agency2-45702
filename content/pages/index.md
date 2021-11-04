@@ -110,7 +110,7 @@ sections:
         fontStyle: normal
         textAlign: left
         margin:
-          - mt-8
+          - mt-5
           - mb-8
       text:
         textAlign: left
