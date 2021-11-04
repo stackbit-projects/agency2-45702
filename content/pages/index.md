@@ -125,9 +125,9 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
-      - content/pages/blog/postlayout-four.md
-      - content/pages/blog/postlayout-five.md
-      - content/pages/blog/postlayout-six.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-six.md
     styles:
       self:
         height: auto
