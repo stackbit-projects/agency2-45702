@@ -1,22 +1,23 @@
 ---
-title: Blog
-layout: PageLayout
+title: Portfolio
 sections:
-  - type: FeaturedPostsSection
-    variant: variant-a
+  - elementId: ''
+    variant: variant-b
     colors: colors-a
     backgroundWidth: full
-    title: Journal
+    title: Portfolio
+    subtitle: This is an optional subtitle for the portfolio page
+    actions: []
     posts:
-      - content/pages/blog/workplace.md
-      - content/pages/blog/working-from-home.md
-      - content/pages/blog/street-photography.md
-      - content/pages/blog/why-fonts-matter.md
-      - content/pages/blog/interior-designer.md
-      - content/pages/blog/function-of-design.md
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-six.md
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         margin:
           - mt-0
@@ -36,5 +37,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    subtitle: 'News, tips and highlights'
+    type: FeaturedPostsSection
+layout: PageLayout
 ---

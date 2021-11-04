@@ -1,13 +1,11 @@
 ---
-title: Nature Magazine
-layout: PostLayout
-date: '2021-07-01'
-author: content/data/team/hugh-saturation.json
-excerpt: Editorial Design
+title: Design is One
+date: '2021-10-26'
+excerpt: Printing
 featuredImage:
   type: ImageBlock
-  url: /images/work-magazine-1-thumb.jpeg
-  altText: Post Image
+  url: /images/work-poster-1-thumb.jpeg
+  altText: Post thumbnail image
 bottomSections:
   - elementId: ''
     variant: variant-a
@@ -16,8 +14,8 @@ bottomSections:
     title: More projects
     actions: []
     posts:
-      - content/pages/blog/post-one.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
     styles:
       self:
         height: auto
@@ -41,17 +39,18 @@ bottomSections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
+layout: PostLayout
 ---
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
 
 
-
-
-![](/images/work-magazine-2.jpeg)
+![](/images/work-poster-2.jpeg)
 
 Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus.
 
-![](/images/work-magazine-3.jpeg)
+
+
+![](/images/work-poster-3.jpeg)
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
