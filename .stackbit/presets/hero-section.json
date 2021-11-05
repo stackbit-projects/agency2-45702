@@ -181,6 +181,10 @@
             "thumbnail": "images/hero-rigth.jpg",
             "data": {
                 "type": "HeroSection",
+                "backgroundImage":{
+                    "altText":"",
+                    "caption":""
+                },
                 "colors": "colors-a",
                 "title": "This is an Award Winning Agency",
                 "subtitle": "Focusing on Digital, Identity, and Print Design",
