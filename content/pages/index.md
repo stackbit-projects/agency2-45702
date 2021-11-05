@@ -143,7 +143,7 @@ sections:
       - type: Button
         label: Learn More
         url: /
-        style: secondary
+        style: link
     feature:
       type: FormBlock
     styles:
