@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    variant: variant-c
+    variant: variant-a
     colors: colors-a
     backgroundWidth: full
     title: About us
