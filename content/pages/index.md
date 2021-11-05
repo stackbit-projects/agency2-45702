@@ -117,7 +117,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
