@@ -187,20 +187,6 @@
                     "action":"/.netlify/functions/submission_created"
                 },
                 "actions":[
-                    {
-                        "type": "Button",
-                        "label": "Get Started",
-                        "url":"/",
-                        "style": "Secondary",
-                        "altText":"Get Started"
-                    },
-                    {
-                        "type": "Link",
-                        "label": "Learn more",
-                        "url":"/",
-                        "style": "link",
-                        "altText":"Learn more"
-                    }
                 ],
                 "styles": {
                     "self": {
