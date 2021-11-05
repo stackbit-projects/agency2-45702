@@ -43,7 +43,7 @@
             }
         },
         {
-            "label": "Image right",
+            "label": "Only text",
             "thumbnail": "images/hero-rigth.jpg",
             "data": {
                 "type": "HeroSection",
