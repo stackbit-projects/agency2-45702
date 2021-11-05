@@ -140,7 +140,7 @@ sections:
       - type: Link
         label: Learn more
         url: /
-        style: Link
+        style: link
         altText: Learn more
     feature:
       type: FormBlock
