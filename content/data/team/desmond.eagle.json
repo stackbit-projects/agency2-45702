@@ -3,11 +3,11 @@
     "id": "desmond-eagle",
     "firstName": "Desmond",
     "lastName": "Eagle",
-    "role": "Creative Producer",
+    "role": "Project Manager",
     "bio": "Interdum velit euismod in pellentesque massa placerat duis ultricies lacus.\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/team-3.png",
+        "url": "/images/team-2.png",
         "altText": "Gordon Norman"
     }
 }
