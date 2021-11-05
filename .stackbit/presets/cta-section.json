@@ -49,7 +49,8 @@
                         "type":"Button",
                         "url":"/",
                         "style":"primary",
-                        "altText":""
+                        "altText":"Try it now",
+                        "label":"Try it now"
                     }
                 ],
                 "styles": {
