@@ -156,7 +156,7 @@ sections:
         padding:
           - pt-0
           - pb-0
-        alignItems: flex-end
+        alignItems: center
         justifyContent: center
         flexDirection: col
       title:
