@@ -70,6 +70,41 @@
                     }
                 }
             }
+        },
+        {
+             "label": "Light, no image",
+            "thumbnail": "images/contact-light.jpg",
+            "data": {
+                "title": "Contact us",
+                "text": "We look forward to hearing from you.",
+                "feature":{
+                    "type":"ImageBlock",
+                    "url":"",
+                    "altText":""
+                },
+                "colors": "colors-a",
+                "elementId": "contact-form",
+                "action": "/.netlify/functions/submission_created",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "narrow",
+                        "margin": ["mt-0", "mb-0"],
+                        "padding": ["pt-12", "pb-12"],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "col"
+                    },
+                    "title": {
+                        "fontWeight": 700,
+                        "fontStyle": "normal",
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    }
+                }
+            }
         }
     ]
 }
