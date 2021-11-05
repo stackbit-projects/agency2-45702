@@ -1,7 +1,7 @@
 {
     "model": "CtaSection",
     "presets": [{
-            "label": "Button dark",
+            "label": "Light",
             "thumbnail": "images/cta-dark.jpg",
             "backgroundWidth": "full",
             "data": {
