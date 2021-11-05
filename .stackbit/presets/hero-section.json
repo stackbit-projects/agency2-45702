@@ -176,7 +176,9 @@
                 "feature": {
                     "type": "FormBlock",
                     "form":{
-                        
+                        "fields":[
+                            
+                        ]
                     }
                 },
                 "actions":[
