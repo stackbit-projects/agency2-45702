@@ -228,7 +228,7 @@ sections:
       text:
         textAlign: center
       actions:
-        justifyContent: inline-flex
+        justifyContent: flex-start
         textAlign: center
     type: HeroSection
   - elementId: ''
