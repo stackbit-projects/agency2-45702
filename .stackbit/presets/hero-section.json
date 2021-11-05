@@ -24,8 +24,7 @@
                     "title": {
                         "fontWeight": 700,
                         "fontStyle": "normal",
-                        "textAlign": "left",
-                        "margin": ["mt-12"]
+                        "textAlign": "left"
                     },
                     "subtitle": {
                         "fontWeight": 400,
