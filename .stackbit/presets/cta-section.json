@@ -48,7 +48,8 @@
                     {
                         "type":"Button",
                         "url":"/",
-                        "style":"primary"
+                        "style":"primary",
+                        "altText":""
                     }
                 ],
                 "styles": {
