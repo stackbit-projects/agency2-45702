@@ -21,7 +21,7 @@
                         "altText":"Get Started"
                     },
                     {
-                        "type": "Link",
+                        "type": "Button",
                         "label": "Learn more",
                         "url":"/",
                         "style": "Link",
