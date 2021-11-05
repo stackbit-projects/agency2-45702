@@ -9,7 +9,7 @@
                 "text": "We look forward to hearing from you.",
                 "feature":{
                     "type":"ImageBlock",
-                    "url":"/images/Screen Shot 2021-10-26 at 8.33.31 PM.png",
+                    "url":"/images/about.jpg",
                     "altText":"Contact us"
                 },
                 "colors": "colors-a",
