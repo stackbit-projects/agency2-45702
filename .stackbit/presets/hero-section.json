@@ -51,7 +51,7 @@
         },
         {
             "label": "With buttons, no feature",
-            "thumbnail": "images/hero-image.jpg",
+            "thumbnail": "images/hero-buttons.jpg",
             "data": {
                 "type": "HeroSection",
                 "backgroundImage":{
