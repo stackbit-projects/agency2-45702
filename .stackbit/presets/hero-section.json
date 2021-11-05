@@ -142,7 +142,7 @@
                         "padding": ["pt-12", "pb-12"],
                         "alignItems": "center",
                         "justifyContent": "center",
-                        "flexDirection": "col"
+                        "flexDirection": "flex-start"
                     },
                     "title": {
                         "fontWeight": 700,
