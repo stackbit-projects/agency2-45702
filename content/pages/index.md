@@ -96,6 +96,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderRadius: none
       title:
         fontWeight: 700
         fontStyle: normal
