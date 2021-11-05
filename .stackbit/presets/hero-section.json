@@ -54,7 +54,9 @@
                 "feature": {
                     "type": "FormBlock"
                 },
-                "actions":[
+                "actions":[{
+                    
+                }
                     "type": "Button",
 
                 ],
