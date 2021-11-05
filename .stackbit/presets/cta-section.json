@@ -5,7 +5,7 @@
             "thumbnail": "images/cta-dark.jpg",
             "backgroundWidth": "full",
             "data": {
-                "colors": "colors-c",
+                "colors": "colors-a",
                 "backgroundImage": {
                     "url": "",
                     "altText": ""
