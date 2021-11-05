@@ -96,7 +96,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
-        borderRadius: none
+        borderRadius: small
         borderStyle: solid
         borderColor: border-neutral
         borderWidth: 2
