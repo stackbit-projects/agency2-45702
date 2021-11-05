@@ -186,7 +186,7 @@
                         ]
                     },
                     "submitLabel":"Subscribe",
-                    
+                    "action":"/.netlify/functions/submission_created"
                 },
                 "actions":[
                     {
