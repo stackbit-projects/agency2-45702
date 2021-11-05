@@ -35,7 +35,7 @@ sections:
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: center
+        textAlign: left
         margin:
           - mt-0
           - mb-12
