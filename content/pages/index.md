@@ -54,7 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-d
+    colors: colors-e
     backgroundWidth: full
     backgroundImage:
       url: ''
