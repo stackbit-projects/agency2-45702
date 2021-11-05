@@ -37,7 +37,7 @@
                         "textAlign": "left"
                     },
                     "actions": {
-                        "justifyContent": "flex"
+                        "justifyContent": "flex-start"
                     }
                 }
             }
