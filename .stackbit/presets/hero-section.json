@@ -19,6 +19,13 @@
                         "url":"/",
                         "style": "Secondary",
                         "altText":"Get Started"
+                    },
+                    {
+                        "type": "Button",
+                        "label": "Get Started",
+                        "url":"/",
+                        "style": "Secondary",
+                        "altText":"Get Started"
                     }
                 ],
                 "styles": {
