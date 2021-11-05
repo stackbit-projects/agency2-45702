@@ -59,8 +59,12 @@
                     "label":"",
                     "url":"",
                     "style":""
+                    },
+                    "type": "Button",
+                    "label":"",
+                    "url":"",
+                    "style":""
                     }
-                    
 
                 ],
                 "styles": {
