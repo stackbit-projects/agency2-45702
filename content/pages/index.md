@@ -54,6 +54,62 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
+    colors: colors-f
+    backgroundWidth: full
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: This is an Award Winning Agency
+    subtitle: 'Focusing on Digital, Identity, and Print Design'
+    text: >-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Get Started
+        url: /
+        style: primary
+        elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: /
+        style: secondary
+    feature:
+      type: FormBlock
+    styles:
+      self:
+        height: screen
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-8
+          - mb-8
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
     colors: colors-a
     backgroundWidth: full
     backgroundImage:
