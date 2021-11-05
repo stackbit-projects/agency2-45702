@@ -24,7 +24,7 @@
                         "type": "Button",
                         "label": "Get Started",
                         "url":"/",
-                        "style": "Secondary",
+                        "style": "Link",
                         "altText":"Get Started"
                     }
                 ],
