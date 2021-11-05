@@ -51,7 +51,7 @@
         },
         {
             "label": "With buttons, no feature",
-            "thumbnail": "images/hero-rigth.jpg",
+            "thumbnail": "images/hero-image.jpg",
             "data": {
                 "type": "HeroSection",
                 "backgroundImage":{
