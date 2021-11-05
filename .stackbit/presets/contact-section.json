@@ -72,7 +72,7 @@
             }
         },
         {
-             "label": "Light, no image",
+             "label": "Dark, no image",
             "thumbnail": "images/contact-light.jpg",
             "data": {
                 "title": "Contact us",
