@@ -22,7 +22,7 @@
                     },
                     {
                         "type": "Button",
-                        "label": "Get Started",
+                        "label": "Learn more",
                         "url":"/",
                         "style": "Link",
                         "altText":"Get Started"
