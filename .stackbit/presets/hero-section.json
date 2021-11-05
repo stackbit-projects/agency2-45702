@@ -176,13 +176,13 @@
                 "feature": {
                     "type": "FormBlock",
                     "fields":[
-                            {
-                                "type":"TextFormControl",
-                                "label":"Name",
-                                "name":"name",
-                                "placeholder":"Your name"
-                            }
-                        ]
+                        {
+                            "type":"TextFormControl",
+                            "label":"Name",
+                            "name":"name",
+                            "placeholder":"Your name"
+                        }
+                    ],
                     "submitLabel":"Subscribe",
                     "action":"/.netlify/functions/submission_created"
                 },
