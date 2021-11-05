@@ -4,6 +4,9 @@
         {
             "label": "Only text",
             "backgroundImage":{
+                "altText":"",
+                "caption":"",
+                "element"
                 altText: lorem-ipsum
       caption: lorem-ipsum
       elementId: ''
