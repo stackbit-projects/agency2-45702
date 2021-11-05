@@ -74,7 +74,7 @@
                         "fontWeight": 400,
                         "fontStyle": "normal",
                         "textAlign": "center",
-                        "margin": ["mt-0", "mb-0"]
+                        "margin": ["mt-5", "mb-0"]
                     },
                     "text": {
                         "textAlign": "center"
