@@ -1,7 +1,7 @@
 {
     "model": "HeroSection",
     "presets": [{
-            "label": "With buttons",
+            "label": "With buttons, no feature",
             "thumbnail": "images/hero-rigth.jpg",
             "data": {
                 "type": "HeroSection",
