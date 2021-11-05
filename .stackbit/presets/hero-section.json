@@ -124,7 +124,7 @@
                         "textAlign": "left"
                     },
                     "actions": {
-                        "justifyContent": "flex-start"
+                        "justifyContent": "flex"
                     }
                 }
             }
