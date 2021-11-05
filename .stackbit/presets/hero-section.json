@@ -187,7 +187,7 @@
                             "type":"TextEmailControl",
                             "label":"Email",
                             "name":"email",
-                            "placeholder":"Your name",
+                            "placeholder":"Your email",
                             "width":"full"
                         }
                     ],
