@@ -83,6 +83,7 @@
             "backgroundWidth": "full",
             "data": {
                 "colors": "colors-a",
+                "text": "",
                 "backgroundImage": {
                     "url": "",
                     "altText": ""
