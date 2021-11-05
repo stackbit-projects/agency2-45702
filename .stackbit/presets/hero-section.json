@@ -183,7 +183,8 @@
                                 "name":"name",
                                 "placeholder":"Your name"
                             }
-                        ]
+                        ],
+                        ""
                     }
                 },
                 "actions":[
