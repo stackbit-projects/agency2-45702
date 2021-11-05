@@ -35,7 +35,7 @@
             }
         },
         {
-            "label": "Button light",
+            "label": "Color",
             "thumbnail": "images/cta-light.jpg",
             "backgroundWidth": "full",
             "data": {
