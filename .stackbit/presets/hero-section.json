@@ -185,7 +185,8 @@
                             }
                         ]
                     },
-                    "submitLabel":"Subscribe"
+                    "submitLabel":"Subscribe",
+                    
                 },
                 "actions":[
                     {
