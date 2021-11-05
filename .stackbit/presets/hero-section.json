@@ -180,7 +180,7 @@
                             {
                                 "type":"TextFormControl",
                                 "label":"Name",
-                                "name":"Name"
+                                "name":"name"
                             }
                         ]
                     }
