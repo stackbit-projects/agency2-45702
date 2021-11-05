@@ -182,6 +182,13 @@
                             "name":"name",
                             "placeholder":"Your name",
                             "width":"full"
+                        },
+                        {
+                            "type":"TextEmailControl",
+                            "label":"Name",
+                            "name":"name",
+                            "placeholder":"Your name",
+                            "width":"full"
                         }
                     ],
                     "submitLabel":"Subscribe",
