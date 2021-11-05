@@ -98,6 +98,7 @@ sections:
         flexDirection: col
         borderRadius: none
         borderStyle: solid
+        borderColor: border-neutral
       title:
         fontWeight: 700
         fontStyle: normal
