@@ -181,7 +181,7 @@
                                 "type":"TextFormControl",
                                 "label":"Name",
                                 "name":"name",
-                                "placeholder"
+                                "placeholder":"Your name"
                             }
                         ]
                     }
