@@ -124,7 +124,7 @@
         },
         {
             "label": "Light, horizontal",
-            "thumbnail": "images/cta-light.jpg",
+            "thumbnail": "images/cta-horizontal.jpg",
             "backgroundWidth": "full",
             "data": {
                 "colors": "colors-a",
