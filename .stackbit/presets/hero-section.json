@@ -12,7 +12,11 @@
                 "feature": {
                     "type": "FormBlock"
                 },
-                "actions":[],
+                "actions":[
+                    {
+                        
+                    }
+                ],
                 "styles": {
                     "self": {
                         "height": "auto",
