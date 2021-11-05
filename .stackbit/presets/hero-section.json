@@ -177,7 +177,9 @@
                     "type": "FormBlock",
                     "form":{
                         "fields":[
-                            
+                            {
+                                
+                            }
                         ]
                     }
                 },
