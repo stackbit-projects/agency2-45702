@@ -48,7 +48,7 @@
                     {
                         "type":"Button",
                         "url":"/",
-                        "style":"primary",
+                        "style":"secondary",
                         "altText":"Try it now",
                         "label":"Try it now"
                     }
