@@ -57,6 +57,7 @@
                 "actions":[{
                     "type": "Button",
                     "url":""
+                    "style"
                     }
                     
 
