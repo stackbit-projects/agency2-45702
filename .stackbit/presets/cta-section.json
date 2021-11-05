@@ -78,7 +78,7 @@
             }
         },
         {
-            "label": "Color",
+            "label": "Light, center",
             "thumbnail": "images/cta-light.jpg",
             "backgroundWidth": "full",
             "data": {
