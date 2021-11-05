@@ -15,7 +15,7 @@
                 "actions":[
                     {
                         "type": "Button",
-                        "label": "Get started",
+                        "label": "Get Started",
                         "url":"/",
                         "style": "Secondary"
                         "altText":"Get started"
