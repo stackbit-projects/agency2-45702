@@ -54,6 +54,9 @@
                 "feature": {
                     "type": "FormBlock"
                 },
+                "actions":{
+
+                },
                 "styles": {
                     "self": {
                         "height": "auto",
