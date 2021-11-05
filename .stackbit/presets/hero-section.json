@@ -54,10 +54,10 @@
                 "feature": {
                     "type": "FormBlock"
                 },
-                "actions":{
+                "actions":[
                     "type": "Button",
-                    
-                },
+
+                ],
                 "styles": {
                     "self": {
                         "height": "auto",
