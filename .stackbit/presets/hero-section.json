@@ -14,7 +14,10 @@
                 },
                 "actions":[
                     {
-                        
+                        "type": "Button",
+                        "label": "Get started",
+                        "url":"/",
+                        "style": "Secondary"
                     }
                 ],
                 "styles": {
