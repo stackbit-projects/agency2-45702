@@ -67,7 +67,7 @@ sections:
       - type: Button
         label: Try it now
         url: /about
-        style: secondary
+        style: primary
     styles:
       self:
         height: auto
