@@ -185,8 +185,8 @@
                         },
                         {
                             "type":"TextEmailControl",
-                            "label":"Name",
-                            "name":"name",
+                            "label":"Email",
+                            "name":"email",
                             "placeholder":"Your name",
                             "width":"full"
                         }
