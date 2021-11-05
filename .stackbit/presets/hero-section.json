@@ -17,8 +17,8 @@
                         "type": "Button",
                         "label": "Get Started",
                         "url":"/",
-                        "style": "Secondary"
-                        "altText":"Get started"
+                        "style": "Secondary",
+                        "altText":"Get Started"
                     }
                 ],
                 "styles": {
