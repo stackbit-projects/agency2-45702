@@ -184,7 +184,7 @@
                             "width":"full"
                         },
                         {
-                            "type":"TextEmailControl",
+                            "type":"EmailFormControl",
                             "label":"Email",
                             "name":"email",
                             "placeholder":"Your email",
