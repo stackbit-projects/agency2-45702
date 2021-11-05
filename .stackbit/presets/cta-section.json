@@ -2,7 +2,7 @@
     "model": "CtaSection",
     "presets": [{
             "label": "Light",
-            "thumbnail": "images/cta-dark.jpg",
+            "thumbnail": "images/cta-vertical.jpg",
             "backgroundWidth": "full",
             "data": {
                 "colors": "colors-a",
