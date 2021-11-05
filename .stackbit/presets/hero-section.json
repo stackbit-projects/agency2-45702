@@ -115,7 +115,8 @@
                 "feature": {
                     "type": "ImageBlock",
                     "url":"/images/about.png"
-                    ""
+                    "altText":"Hero Image",
+                    
                 },
                 "actions":[
                     {
