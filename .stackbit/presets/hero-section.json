@@ -17,6 +17,7 @@
                         "height": "screen",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
+                        
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "col"
