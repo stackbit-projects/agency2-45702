@@ -43,17 +43,16 @@
             }
         },
         {
-            "label": "Image left",
-            "thumbnail": "images/hero-left.jpg",
+            "label": "Image right",
+            "thumbnail": "images/hero-rigth.jpg",
             "data": {
                 "type": "HeroSection",
-                "title": "All about the art of selling fish",
-                "subtitle": "Fresh. Better. Faster",
+                "colors": "colors-a",
+                "title": "This is an Award Winning Agency",
+                "subtitle": "Focusing on Digital, Identity, and Print Design",
                 "text": "Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl. Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.",
                 "feature": {
-                    "type": "ImageBlock",
-                    "url": "/images/hero-image.png",
-                    "altText": "Hero section image"
+                    "type": "FormBlock"
                 },
                 "styles": {
                     "self": {
@@ -63,13 +62,12 @@
                         "padding": ["pt-12", "pb-12"],
                         "alignItems": "center",
                         "justifyContent": "center",
-                        "flexDirection": "row-reverse"
+                        "flexDirection": "col"
                     },
                     "title": {
                         "fontWeight": 700,
                         "fontStyle": "normal",
-                        "textAlign": "left",
-                        "margin": ["mt-12"]
+                        "textAlign": "left"
                     },
                     "subtitle": {
                         "fontWeight": 400,
