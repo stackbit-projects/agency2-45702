@@ -4,7 +4,9 @@
         {
             "label": "Only text",
             "backgroundImage":{
-                
+                altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
             },
             "thumbnail": "images/hero-rigth.jpg",
             "data": {
