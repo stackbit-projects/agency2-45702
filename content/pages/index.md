@@ -99,6 +99,7 @@ sections:
         borderRadius: none
         borderStyle: solid
         borderColor: border-neutral
+        borderWidth: 2
       title:
         fontWeight: 700
         fontStyle: normal
