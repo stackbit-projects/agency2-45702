@@ -179,7 +179,8 @@
                         "fields":[
                             {
                                 "type":"TextFormControl",
-                                "label":"Em"
+                                "label":"Name",
+                                "name":
                             }
                         ]
                     }
