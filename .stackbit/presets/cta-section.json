@@ -159,7 +159,7 @@
                         "textAlign": "center"
                     },
                     "text": {
-                        "textAlign": "center"
+                        "textAlign": "left"
                     },
                     "actions": {
                         "justifyContent": "center"
