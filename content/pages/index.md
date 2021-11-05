@@ -200,11 +200,6 @@ sections:
           name: name
           placeholder: Your name
           width: full
-        - type: TextEmailControl
-          label: Email
-          name: email
-          placeholder: Your email
-          width: full
       submitLabel: Subscribe
       action: /.netlify/functions/submission_created
     styles:
