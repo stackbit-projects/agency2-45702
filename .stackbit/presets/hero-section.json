@@ -178,7 +178,7 @@
         },
         {
             "label": "With form",
-            "thumbnail": "images/hero-rigth.jpg",
+            "thumbnail": "images/hero-form.jpg",
             "data": {
                 "type": "HeroSection",
                 "backgroundImage":{
