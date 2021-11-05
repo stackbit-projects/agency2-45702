@@ -162,7 +162,7 @@
                         "textAlign": "left"
                     },
                     "actions": {
-                        "justifyContent": "center"
+                        "justifyContent": "right"
                     }
                 }
             }
