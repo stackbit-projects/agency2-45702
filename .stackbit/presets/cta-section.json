@@ -45,7 +45,11 @@
                     "altText": ""
                 },
                 "actions":[
-
+                    {
+                        "type":"Button",
+                        "url":"/",
+                        "style":"primary"
+                    }
                 ],
                 "styles": {
                     "self": {
