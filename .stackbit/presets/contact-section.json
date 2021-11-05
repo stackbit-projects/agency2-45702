@@ -45,7 +45,7 @@
                 "feature":{
                     "type":"ImageBlock",
                     "url":"",
-                    "altText":"Contact us"
+                    "altText":""
                 },
                 "colors": "colors-a",
                 "elementId": "contact-form",
