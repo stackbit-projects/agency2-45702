@@ -3,6 +3,7 @@
     "presets": [{
             "label": "Image right",
             "thumbnail": "images/hero-rigth.jpg",
+            "colors": "colors-a",
             "data": {
                 "type": "HeroSection",
                 "title": "This is an Award Winning Agency",
