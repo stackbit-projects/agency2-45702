@@ -54,18 +54,7 @@
                 "feature": {
                     "type": "FormBlock"
                 },
-                "actions":[{
-                    "type": "Button",
-                    "label":"",
-                    "url":"",
-                    "style":""
-                    },
-                    {
-                    "type": "Button",
-                    "label":"",
-                    "url":"",
-                    "style":""
-                    }
+                "actions":[
                 ],
                 "styles": {
                     "self": {
