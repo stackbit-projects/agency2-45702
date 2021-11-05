@@ -113,7 +113,7 @@
         },
         {
             "label": "With image",
-            "thumbnail": "images/hero-rigth.jpg",
+            "thumbnail": "images/hero-image.jpg",
             "data": {
                 "type": "HeroSection",
                 "backgroundImage":{
