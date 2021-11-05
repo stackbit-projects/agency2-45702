@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "Only text",
-            "thumbnail": "images/hero-rigth.jpg",
+            "thumbnail": "images/hero-text.jpg",
             "data": {
                 "type": "HeroSection",
                 "backgroundImage":{
