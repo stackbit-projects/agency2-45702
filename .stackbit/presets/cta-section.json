@@ -93,7 +93,7 @@
                     {
                         "type":"Button",
                         "url":"/",
-                        "style":"secondary",
+                        "style":"primary",
                         "altText":"Try it now",
                         "label":"Try it now"
                     }
